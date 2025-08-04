@@ -27,6 +27,9 @@
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
     </a>
+    <a href="https://redis.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
     </a>
@@ -39,6 +42,7 @@
     Currently, I am interning as a Backend & Mobile Developer, where I am:
     <ul>
         <li>Building backend applications with <strong>Django</strong> and <strong>PostgreSQL</strong>.</li>
+        <li>Implementing caching solutions and session management with <strong>Redis</strong>.</li>
         <li>Developing cross-platform mobile apps using <strong>Flutter</strong>.</li>
         <li>Utilizing <strong>Docker</strong> to containerize applications for easy deployment and scalability.</li>
         <li>Collaborating with a team using <strong>Git</strong> for version control and code management.</li>
